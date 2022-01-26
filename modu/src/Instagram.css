@@ -1,0 +1,20 @@
+.Instagram img{
+    width: 200px !important;
+    height: 200px !important;
+}
+.row {
+    --bs-gutter-x: 5rem;
+    --bs-gutter-y: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Instagram{
+    margin-top: 50px !important;
+}
+.main{
+    margin-top: 50px;
+}
+li{
+    display: flex;
+    flex-direction: column;
+}

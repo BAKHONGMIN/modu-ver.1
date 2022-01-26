@@ -1,0 +1,8 @@
+.carousel-inner img{
+    height: 500px;
+}
+.carousel span{
+    background-color: rgba(0, 0, 0, 0.555);
+    width: 3em;
+    height: 3em;
+}
